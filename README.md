@@ -17,15 +17,9 @@ git clone github.com/gnxmanu/airlift.git
 ```
 
 ### Executing Program
-User-specific variables need to be determined prior to execution (see **Arguments**). Afterwards run any of the following alternatives.
+User-specific variables need to be determined prior to execution (see **Arguments**). Afterwards run after cd into the .py location.
 ``` console 
 python airlift.py
-```
-
-Or
-
-``` console 
-python /User/airlift.py
 ```
   
 ## Arguments
@@ -119,7 +113,7 @@ server.login("yourloginid", password)
 [@gnxmanu](https://github.com/gnxmanu)
 
 ## Version History
-* v1.0 –––––– Public Release. March 24, 2022
+* v1.0 –––––– Public Release. March 25, 2022
 
 ## License
 This project is licensed under the [MIT] License - see the LICENSE.md file for details.
