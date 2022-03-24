@@ -2,7 +2,7 @@
 E-mail distribution automation with specific individual payload.
 
 ## Description
-Takes all email-labeled files (e.g., 'anderson@metacortex.com.xlsx') from a folder and sends an email with the corresponding file to each individual. Python 3.7.5.
+Takes all email-labeled files (e.g., 'anderson@metacortex.com.xlsx') from a folder and sends an email with the corresponding file to each individual. For Python 3.7.5.
 
 ### Dependencies
 * Modules: `smtplib`, `ssl`, `os`,`re` `getpass`.
